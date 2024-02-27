@@ -1,0 +1,8 @@
+C:\Users\k.seenapriyanka\Desktop\Codes\Plugin\AvoidDatesOverlap\bin\Debug\AvoidDatesOverlap.dll
+C:\Users\k.seenapriyanka\Desktop\Codes\Plugin\AvoidDatesOverlap\bin\Debug\AvoidDatesOverlap.pdb
+C:\Users\k.seenapriyanka\Desktop\Codes\Plugin\AvoidDatesOverlap\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\k.seenapriyanka\Desktop\Codes\Plugin\AvoidDatesOverlap\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\k.seenapriyanka\Desktop\Codes\Plugin\AvoidDatesOverlap\obj\Debug\AvoidDatesOverlap.csproj.CoreCompileInputs.cache
+C:\Users\k.seenapriyanka\Desktop\Codes\Plugin\AvoidDatesOverlap\obj\Debug\AvoidDatesOverlap.csproj.CopyComplete
+C:\Users\k.seenapriyanka\Desktop\Codes\Plugin\AvoidDatesOverlap\obj\Debug\AvoidDatesOverlap.dll
+C:\Users\k.seenapriyanka\Desktop\Codes\Plugin\AvoidDatesOverlap\obj\Debug\AvoidDatesOverlap.pdb
